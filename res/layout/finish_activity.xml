@@ -23,7 +23,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    app:insetForeground="@android:color/transparent">
+    app:insetForeground="@android:color/transparent"
+    android:background="@drawable/background2">
 
     <LinearLayout
         android:layout_width="match_parent"

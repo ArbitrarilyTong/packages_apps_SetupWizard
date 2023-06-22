@@ -25,7 +25,7 @@
     <string name="loading">Even geduld\u2026</string>
     <string name="setup_complete">Instellen voltooid</string>
     <string name="setup_welcome">Welkom</string>
-    <string name="setup_welcome_message">Welkom bij <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Welkom bij \n<xliff:g id="name" example="ArbitrarilyTong">%1$s</xliff:g></string>
     <string name="setup_locale">Taal</string>
     <string name="setup_wifi">Wifi selecteren</string>
     <string name="setup_sim_missing">Simkaart ontbreekt</string>
@@ -51,7 +51,7 @@
     <string name="emergency_call">Noodoproep</string>
     <string name="accessibility_settings">Toegankelijkheidsinstellingen</string>
     <string name="setup_services">Functies van crDroid</string>
-    <string name="services_pp_explanation">Deze diensten worden gebruikt om de mogelijkheden van uw apparaat uit te breiden. Gegevens zullen worden gebruikt conform het privacybeleid van <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
+    <string name="services_pp_explanation">Deze diensten worden gebruikt om de mogelijkheden van uw apparaat uit te breiden. Gegevens zullen worden gebruikt conform het privacybeleid van \n<xliff:g id="name" example="ArbitrarilyTong">%1$s</xliff:g></string>
     <string name="services_find_privacy_policy">U kunt het privacybeleid op een ander apparaat lezen door <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> te bezoeken</string>
     <string name="services_help_improve_cm">Help mee met het verbeteren van <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> door automatisch diagnose- en verbruiksgegevens te verzenden naar  <xliff:g id="name" example="crDroid">%2$s</xliff:g>. Deze informatie kan niet gebruikt worden om u te identificeren en helpt de teams om te werken aan zaken zoals levensduur van de accu, app-prestaties en nieuwe <xliff:g id="name" example="crDroid">%3$s</xliff:g> features.</string>
